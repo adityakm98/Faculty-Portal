@@ -639,7 +639,7 @@ app.post("/login", async(req,res)=>{
 });
 
 
-app.post("/leaveApplication",async(req,res)=>{
+app.post("/levaeApplication",async(req,res)=>{
 
   try{
 
